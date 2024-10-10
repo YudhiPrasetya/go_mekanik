@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18874484821",
+    "project_id": "go-mekanik-skm",
+    "storage_bucket": "go-mekanik-skm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18874484821:android:603be4c8041c598a0eecdc",
+        "android_client_info": {
+          "package_name": "com.example.go_mekanik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ek31wOO1hp9X6MmAzsQ29nwEZyOcVm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
