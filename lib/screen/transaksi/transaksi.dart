@@ -27,11 +27,11 @@ class Transaksi extends StatefulWidget {
 
 class _TransaksiState extends State<Transaksi> {
   bool canRepaired = false;
-  final _isHours = true;
+  // final _isHours = true;
   String? _idMekanikRepairing;
   String? _idUser;
   late String _displayTimer;
-  String? _idMachineBreakdown;
+  // String? _idMachineBreakdown;
 
   bool isEnabledButton = true;
 
